@@ -15,8 +15,8 @@
         - [ ] Launch
         - [ ] Projectile Hit
 - [ ] UI
-    - [ ] Generic Cursor Move
-    - [ ] Generic Select
+    - [x] Generic Cursor Move
+    - [x] Generic Select
     - [ ] Generic Back
     - [ ] Turret Upgrade Sound
 - [ ] World 
