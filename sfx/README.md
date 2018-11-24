@@ -1,28 +1,28 @@
 # Sound Effects
 
--[ ] Firefly Sprite
-    -[ ] Movement
-    -[ ] Start / Stop
--[ ] Turrets
-    -[ ] Targeting Enemy
-    -[ ] Bomb Turret
-        -[ ] Launch
-        -[ ] Projectile Explode
-    -[ ] Slow Turret
-        -[ ] Launch
-        -[ ] Projectile Hit
-    -[ ] MG Turret
-        -[ ] Launch
-        -[ ] Projectile Hit
--[ ] UI
-    -[ ] Generic Cursor Move
-    -[ ] Generic Select
-    -[ ] Generic Back
-    -[ ] Turret Upgrade Sound
--[ ] World 
-    -[ ] Crystal
-        -[ ] Crystal Pickup
-        -[ ] Crystal Ambient
-    -[ ] Coin
--[ ] Character
-    -[ ] Death
+- [ ] Firefly Sprite
+    - [ ] Movement
+    - [ ] Start / Stop
+- [ ] Turrets
+    - [ ] Targeting Enemy
+    - [ ] Bomb Turret
+        - [ ] Launch
+        - [ ] Projectile Explode
+    - [ ] Slow Turret
+        - [ ] Launch
+        - [ ] Projectile Hit
+    - [ ] MG Turret
+        - [ ] Launch
+        - [ ] Projectile Hit
+- [ ] UI
+    - [ ] Generic Cursor Move
+    - [ ] Generic Select
+    - [ ] Generic Back
+    - [ ] Turret Upgrade Sound
+- [ ] World 
+    - [ ] Crystal
+        - [ ] Crystal Pickup
+        - [ ] Crystal Ambient
+    - [ ] Coin
+- [ ] Character
+    - [ ] Death
