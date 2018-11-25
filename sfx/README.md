@@ -26,3 +26,6 @@
     - [ ] Coin
 - [ ] Character
     - [ ] Death
+    - [x] Grass
+    - [x] Rock
+    - [x] Wood
