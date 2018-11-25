@@ -14,11 +14,11 @@
     - [ ] MG Turret
         - [ ] Launch
         - [ ] Projectile Hit
-- [ ] UI
+- [x] UI
     - [x] Generic Cursor Move
     - [x] Generic Select
-    - [ ] Generic Back
-    - [ ] Turret Upgrade Sound
+    - [x] Generic Back
+    - [x] Turret Upgrade Sound
 - [ ] World 
     - [ ] Crystal
         - [ ] Crystal Pickup
