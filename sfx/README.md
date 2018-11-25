@@ -22,7 +22,7 @@
 - [ ] World 
     - [ ] Crystal
         - [ ] Crystal Pickup
-        - [ ] Crystal Ambient
+        - [x] Crystal Ambient
     - [ ] Coin
 - [ ] Character
     - [ ] Death
