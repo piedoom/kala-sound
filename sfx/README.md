@@ -4,16 +4,16 @@
     - [ ] Movement
     - [ ] Start / Stop
 - [ ] Turrets
-    - [ ] Targeting Enemy
+    - [x] Targeting Enemy
     - [ ] Bomb Turret
-        - [ ] Launch
+        - [x] Launch
         - [ ] Projectile Explode
     - [ ] Slow Turret
         - [ ] Launch
         - [ ] Projectile Hit
-    - [ ] MG Turret
-        - [ ] Launch
-        - [ ] Projectile Hit
+    - [x] MG Turret
+        - [x] Launch
+        - [x] Projectile Hit
 - [x] UI
     - [x] Generic Cursor Move
     - [x] Generic Select
