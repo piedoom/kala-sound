@@ -24,6 +24,7 @@
         - [ ] Crystal Pickup
         - [x] Crystal Ambient
     - [ ] Coin
+    - [ ] Alert
 - [ ] Character
     - [ ] Death
     - [x] Grass
